@@ -1,6 +1,6 @@
 # # CreateAccount API
 # The CreateAccount API operation enables you to create a PayPal account on behalf of a third party.
-# This sample code uses AdaptiveAccounts Ruby SDK to make API call. You can download the SDK [here](https://www.x.com/developers/paypal/documentation-tools/paypal-sdk-index)
+# This sample code uses AdaptiveAccounts Ruby SDK to make API call. You can download the SDK [here](https://github.com/paypal/sdk-packages/tree/gh-pages/adaptiveaccounts-sdk/ruby)
 
 require 'paypal-sdk-adaptiveaccounts'
 

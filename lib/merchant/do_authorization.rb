@@ -1,6 +1,6 @@
 # # DoAuthorization API
 # Authorize a payment.
-# This sample code uses Merchant Ruby SDK to make API call. You can download the SDK [here](https://www.x.com/developers/paypal/documentation-tools/paypal-sdk-index)
+# This sample code uses Merchant Ruby SDK to make API call. You can download the SDK [here](https://github.com/paypal/sdk-packages/tree/gh-pages/merchant-sdk/ruby)
 
 require 'paypal-sdk-merchant'
 

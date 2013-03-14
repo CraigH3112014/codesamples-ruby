@@ -1,6 +1,6 @@
 # # CreateAndSendInvoice API
 # Use the CreateAndSendInvoice API operation to create and send an invoice.
-# This sample code uses Invoice Ruby SDK to make API call. You can download the SDK [here](https://www.x.com/developers/paypal/documentation-tools/paypal-sdk-index)
+# This sample code uses Invoice Ruby SDK to make API call. You can download the SDK [here](https://github.com/paypal/sdk-packages/tree/gh-pages/invoice-sdk/ruby)
 
 require 'paypal-sdk-invoice'
 

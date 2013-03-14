@@ -1,6 +1,6 @@
 # # PreapprovalDetails API
 # Use the PreapprovalDetails API operation to obtain information about an agreement between you and a sender for making payments on the sender's behalf.
-# This sample code uses AdaptivePayments Ruby SDK to make API call. You can download the SDK [here](https://www.x.com/developers/paypal/documentation-tools/paypal-sdk-index)
+# This sample code uses AdaptivePayments Ruby SDK to make API call. You can download the SDK [here](https://github.com/paypal/sdk-packages/tree/gh-pages/adaptivepayments-sdk/ruby)
 
 require 'paypal-sdk-adaptivepayments'
 

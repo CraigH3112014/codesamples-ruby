@@ -1,6 +1,6 @@
 # # Refund API
 # Use the Refund API operation to refund all or part of a payment.
-# This sample code uses AdaptivePayments Ruby SDK to make API call. You can download the SDK [here](https://www.x.com/developers/paypal/documentation-tools/paypal-sdk-index)
+# This sample code uses AdaptivePayments Ruby SDK to make API call. You can download the SDK [here](https://github.com/paypal/sdk-packages/tree/gh-pages/adaptivepayments-sdk/ruby)
 require 'paypal-sdk-adaptivepayments'
 
 module AdaptivePayments

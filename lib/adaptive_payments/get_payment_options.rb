@@ -1,6 +1,6 @@
 # # GetPaymentOptions API
 # You use the GetPaymentOptions API operation to retrieve the payment options passed with the SetPaymentOptionsRequest.
-# This sample code uses AdaptivePayments Ruby SDK to make API call. You can download the SDK [here](https://www.x.com/developers/paypal/documentation-tools/paypal-sdk-index)
+# This sample code uses AdaptivePayments Ruby SDK to make API call. You can download the SDK [here](https://github.com/paypal/sdk-packages/tree/gh-pages/adaptivepayments-sdk/ruby)
 
 require 'paypal-sdk-adaptivepayments'
 

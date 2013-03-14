@@ -1,6 +1,6 @@
 # # GetAccessToken API
 # Use the GetAccessToken API operation to obtain an access token for a set of permissions.
-# This sample code uses Permissions Ruby SDK to make API call. You can download the SDK [here](https://www.x.com/developers/paypal/documentation-tools/paypal-sdk-index)
+# This sample code uses Permissions Ruby SDK to make API call. You can download the SDK [here](https://github.com/paypal/sdk-packages/tree/gh-pages/permissions-sdk/ruby)
 
 require 'paypal-sdk-permissions'
 
